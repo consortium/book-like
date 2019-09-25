@@ -16,3 +16,7 @@ Any questions raise and issue or Tweet @pub_con and maintained by @mrchristian99
 
  1. Metadata encoding - pxcraft.pub, using DC15 and storing metadata in JS and writing out to HTML, need to explore  https://github.com/jochmann/pxcraft.pub/blob/master/README.md
  2. Tablo - commercial. To learn from features https://tablo.io/
+
+## Closed source
+
+1. Next Journal - https://nextjournal.com/
