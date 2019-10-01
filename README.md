@@ -11,6 +11,7 @@ Any questions raise and issue or Tweet @pub_con and maintained by @mrchristian99
 
  1. soupault - Soupault (soup-oh) is a static website generator based on HTML rewriting. https://baturin.org/projects/soupault/ 
  1. Pressbook - book framework that sits ontop WP, not for standard WP installs https://github.com/pressbooks/pressbooks
+ 1. XSLT generator/patcher - https://t.co/hxO0vxSl3n?amp=1
 
 ## Features
 
